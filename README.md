@@ -177,12 +177,6 @@ npm run dev
 
 ---
 
-## 📷 预览
-
-> 暂无截图
-
----
-
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request！
